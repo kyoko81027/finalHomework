@@ -11,4 +11,4 @@ df_otc.shape
 df_sii.index
 # RangeIndex(start=0, stop=853, step=1)
 df_sii.values
-df_sii.columnsmatplotlib
+df_sii.columns
