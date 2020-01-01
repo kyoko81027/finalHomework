@@ -36,8 +36,9 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/venv/t187ap05_L.csv" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="two.files.diff.last.used.file" value="$PROJECT_DIR$/venv/t187ap05_L.csv" />
   </component>
   <component name="RunManager">
     <configuration name="Main" type="PythonConfigurationType" factoryName="Python" temporary="true">
@@ -112,14 +113,22 @@
     <option name="LAST_COMMIT_MESSAGE" value="期末報告" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="415" y="28" key="CommitChangelistDialog2" timestamp="1577854894669">
+    <state x="415" y="28" key="CommitChangelistDialog2" timestamp="1577854933081">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="415" y="28" key="CommitChangelistDialog2/0.0.1536.864@0.0.1536.864" timestamp="1577854894669" />
-    <state x="549" y="187" key="FileChooserDialogImpl" timestamp="1577854313440">
+    <state x="415" y="28" key="CommitChangelistDialog2/0.0.1536.864@0.0.1536.864" timestamp="1577854933081" />
+    <state x="93" y="93" width="1350" height="678" key="DiffContextDialog" timestamp="1577854964374">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="549" y="187" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1577854313440" />
+    <state x="93" y="93" width="1350" height="678" key="DiffContextDialog/0.0.1536.864@0.0.1536.864" timestamp="1577854964374" />
+    <state x="549" y="187" key="FileChooserDialogImpl" timestamp="1577854952049">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="549" y="187" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1577854952049" />
+    <state x="596" y="328" width="368" height="207" key="Github.CreateGistDialog" timestamp="1577854963734">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="596" y="328" width="368" height="207" key="Github.CreateGistDialog/0.0.1536.864@0.0.1536.864" timestamp="1577854963734" />
     <state x="627" y="323" key="Github.ShareDialog" timestamp="1577854496851">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
@@ -144,9 +153,9 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="270" y="74" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1577854801773" />
-    <state x="361" y="165" key="Vcs.Push.Dialog.v2" timestamp="1577854506391">
+    <state x="361" y="165" key="Vcs.Push.Dialog.v2" timestamp="1577854984132">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="361" y="165" key="Vcs.Push.Dialog.v2/0.0.1536.864@0.0.1536.864" timestamp="1577854506391" />
+    <state x="361" y="165" key="Vcs.Push.Dialog.v2/0.0.1536.864@0.0.1536.864" timestamp="1577854984132" />
   </component>
 </project>
