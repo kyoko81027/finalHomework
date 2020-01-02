@@ -35,4 +35,10 @@ df_sii[df_sii['company_code'].isin(top20_valuable_stock_list)]
 
 df_otc_ec = df_otc[df_otc['industry'].isin(['電子商務'])]
 df_otc_ec.company_average_salary = pd.to_numeric(df_otc_ec.company_average_salary)
-df_otc_ec.loc[:, ['company_code', 'company_average_salary']].plot(kind='bar', x='company_code', y='company_average_salary', title ="TW EC", figsize=(15, 10), legend=True, fontsize=12)
+#df_otc_ec.loc[:, ['company_code', 'company_average_salary']].plot(kind='bar', x='company_code', y='company_average_salary', title ="TW EC", figsize=(15, 10), legend=True, fontsize=12)
+df_sii_average_salary_eps = df_sii[['company_average_salary', 'company_eps']]
+df_sii_average_salary_eps.sort_values(['company_eps'], ascending=False)
+filter_df_sii_average_salary_eps = df_sii_average_salary_eps.drop(df_sii_average_salary_eps.index[[488, 252, 372]])
+filter_df_sii_average_salary_eps.sort_values(['company_eps'], ascending=False)
+filter_df_sii_average_salary_eps.plot(kind='scatter', x='company_eps', y='company_average_salary')
+plt.show()
